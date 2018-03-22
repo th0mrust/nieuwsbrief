@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+    background-color: #0140a5;
+    color: white;
+    padding: 3%;
+    font-family: cursive;
+}
+
+a {
+    text-decoration: none;
+    color: lightblue;
+}
